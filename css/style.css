@@ -741,6 +741,7 @@ a.logo:hover {
   }
   .header__top {
     justify-content: center;
+    text-align: center;
   }
   .header__top > a.logo {
     position: absolute;
