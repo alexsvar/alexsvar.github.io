@@ -238,10 +238,10 @@
       & > .platform__red-dot {
         position: absolute;
         width: 1px;
-        height: 50%;
+        height: 100%;
         background: $lighten-gray;
         left: 50%;
-        top: 18px;
+        top: 0;
 
         @media screen and (max-width: $medium-size) {
           left: 20px;
