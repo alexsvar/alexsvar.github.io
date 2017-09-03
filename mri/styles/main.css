@@ -1540,6 +1540,7 @@ b {
           .footer > .container > .footer__column input[type="email"] {
             min-width: 90%; } }
       .footer > .container > .footer__column.footer__column-3 {
+        color: #edecec;
         flex: 2.5; }
         .footer > .container > .footer__column.footer__column-3 > .column-3__row {
           display: flex;
@@ -1553,6 +1554,7 @@ b {
           .footer > .container > .footer__column.footer__column-3 > .column-3__row > .column-3__column:first-child {
             text-transform: capitalize; }
         .footer > .container > .footer__column.footer__column-3 > .copyright {
+          color: #edecec;
           margin-top: 100px; }
 
 [data-js-animation] {
