@@ -614,6 +614,7 @@
           flex-wrap: wrap;
 
           & > .column-3__column {
+            color: $light-gray;
 
             a {
               color: #9d484c;
@@ -629,6 +630,7 @@
           }
         }
         & > .copyright {
+          color: $light-gray;
           margin-top: 100px;
         }
       }
