@@ -1228,6 +1228,9 @@ b {
     @media screen and (max-width: 768px) {
       .platform > .container > .platform__items {
         padding-left: 35px; } }
+    @media screen and (max-width: 550px) {
+      .platform > .container > .platform__items {
+        padding-left: 0; } }
     .platform > .container > .platform__items > .platform__row {
       display: flex;
       flex-wrap: wrap;
@@ -1275,6 +1278,9 @@ b {
       @media screen and (max-width: 768px) {
         .platform > .container > .platform__items > .platform__red-dot {
           left: 20px; } }
+      @media screen and (max-width: 550px) {
+        .platform > .container > .platform__items > .platform__red-dot {
+          display: none; } }
       .platform > .container > .platform__items > .platform__red-dot > .red-dot__container {
         position: absolute;
         width: 34px;
