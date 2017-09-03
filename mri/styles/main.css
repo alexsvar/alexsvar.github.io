@@ -1253,13 +1253,16 @@ b {
           opacity: .5; }
           @media screen and (max-width: 550px) {
             .platform > .container > .platform__items > .platform__row > .platform__column > .platform__icons {
-              display: inline-block; } }
+              display: block; } }
           .platform > .container > .platform__items > .platform__row > .platform__column > .platform__icons img {
             max-width: 100%;
             margin-right: 30px; }
             @media screen and (max-width: 768px) {
               .platform > .container > .platform__items > .platform__row > .platform__column > .platform__icons img {
                 margin: 0 auto; } }
+            @media screen and (max-width: 550px) {
+              .platform > .container > .platform__items > .platform__row > .platform__column > .platform__icons img {
+                display: inline-block; } }
             .platform > .container > .platform__items > .platform__row > .platform__column > .platform__icons img:last-child {
               margin-right: 0; }
         .platform > .container > .platform__items > .platform__row > .platform__column img {
