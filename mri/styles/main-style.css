@@ -1219,7 +1219,8 @@ b {
         text-transform: uppercase; }
         @media screen and (max-width: 768px) {
           .header > .container > .header__content h2 {
-            margin-top: 0; } }
+            margin-top: 0;
+            margin-bottom: 10px;} }
       .header > .container > .header__content > .content__description {
         font-family: "MuseoSans-Light", "Arial", sans-serif;
         font-size: 16px; }
@@ -1239,8 +1240,8 @@ b {
         margin-top: 75px; }
         @media screen and (max-width: 768px) {
           .header > .container > .header__content > .content__button {
-            margin-top: 25px;
-            margin-bottom: 25px; } }
+            margin-top: 10px;
+            margin-bottom: 5px; } }
         .header > .container > .header__content > .content__button:hover {
           cursor: pointer;
           background-color: #404040; }
