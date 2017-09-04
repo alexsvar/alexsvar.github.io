@@ -1445,7 +1445,9 @@ b {
             padding-top: 20px;
             text-align: center; } }
     .product > .container > .product__column.product__column-2 {
-      flex: 1; }
+      flex: 1;
+      margin: 0 auto;
+      width: 60%; }
       .product > .container > .product__column.product__column-2 > .product__square {
         padding-top: 100%;
         position: relative; }
@@ -1456,8 +1458,8 @@ b {
           left: 0;
           top: 0;
           position: absolute;
-          width: 97%;
-          height: 97%;
+          width: 98%;
+          height: 98%;
           border: 3px dashed rgba(255, 255, 255, 0.37);
           -webkit-border-radius: 30px;
           -webkit-transition: border-color .5s ease-in-out; }
