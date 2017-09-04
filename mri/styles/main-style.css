@@ -1448,7 +1448,7 @@ b {
     .product > .container > .product__column.product__column-2 {
       flex: 1;
       margin: 0 auto;
-      width: 60%; }
+      width: 70%; }
       .product > .container > .product__column.product__column-2 > .product__square {
         padding-top: 100%;
         position: relative; }
