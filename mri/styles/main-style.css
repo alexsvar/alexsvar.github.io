@@ -1185,7 +1185,7 @@ b {
         .header > .container #mobile-navigation {
           display: flex;
           flex-direction: column;
-          justify-content: center; } }
+          justify-content: space-around; } }
       .header > .container #mobile-navigation > a {
         display: block;
         text-decoration: none;
