@@ -1,2 +1,2 @@
-# svar1.github.io
+# alexsvar.github.io
 Geekbrains/PSD-to-HTML
